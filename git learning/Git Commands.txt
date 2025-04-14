@@ -1,7 +1,0 @@
-1) Git Configuration: Configure user details for the first time. 
-
-   Below commands set the global username and email for commits.
-
-   git config --global user.name "Santosh Terala"
-   git config --global user.email skterala@gmail.com
-
